@@ -1,0 +1,22 @@
+# Dependencies
+node_modules/
+
+# Playwright / test artifacts
+test-results/
+reports/
+playwright-report/
+blob-report/
+
+# Allure results
+allure-results/
+allure-report/
+
+# Env / secrets
+.env
+.env.*
+!.env.example
+
+# OS / editor
+.DS_Store
+.vscode/
+*.log

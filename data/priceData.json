@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "id": "product1",
+      "searchKeyword": "Watch",
+      "name": "Men Leather Analoge Quartz Fashion Watch for Men",
+      "priceWithDiscount": 199,
+      "priceWithoutDiscount": 799,
+      "quantity": 1
+    },
+    {
+      "id": "product2",
+      "searchKeyword": "Bag",
+      "name": "Carry Your Essentials in Style with a Stylish Mini Bag - Small Backpack - A School Bag for Men That's Very Comfortable and Fashionable, Easy to Clean.",
+      "priceWithDiscount": 128,
+      "priceWithoutDiscount": 290,
+      "quantity": 1
+    }
+  ],
+  "calculations": {
+    "totalWithoutDiscountPrice": 1089,
+    "totalWithDiscountPrice": 327,
+    "discount": 762,
+    "subtotal": 327,
+    "totalShippingCost": 170,
+    "totalPrice": 497
+  }
+}

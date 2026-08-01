@@ -1,0 +1,410 @@
+- generic [ref=e1]:
+  - generic [ref=e2]:
+    - img [ref=e3]
+    - img [ref=e4]
+    - img [ref=e5]
+    - img [ref=e6]
+    - img [ref=e7]
+    - img [ref=e8]
+    - img [ref=e9]
+  - generic [ref=e12]:
+    - generic [ref=e13]:
+      - generic [ref=e15]:
+        - generic [ref=e16] [cursor=pointer]: Save More on App
+        - link "Become a Seller" [ref=e18] [cursor=pointer]:
+          - /url: https://sellercenter.daraz.com.bd/v2/seller/login
+        - generic [ref=e19] [cursor=pointer]: Help & Support
+        - generic [ref=e21] [cursor=pointer]: Sk Sadi Bandan's account
+        - generic [ref=e22] [cursor=pointer]: ভাষা
+      - generic [ref=e24]:
+        - link "Online Shopping Daraz Logo" [ref=e26] [cursor=pointer]:
+          - /url: https://www.daraz.com.bd/
+          - img "Online Shopping Daraz Logo" [ref=e27]
+        - generic [ref=e29]:
+          - generic [ref=e31]:
+            - searchbox "Search in Daraz" [ref=e33]
+            - link "SEARCH" [ref=e35] [cursor=pointer]:
+              - /url: //www.daraz.com.bd/catalog/?q=
+          - generic [ref=e36]:
+            - link "bra for girls" [ref=e37] [cursor=pointer]:
+              - /url: https://www.daraz.com.bd/catalog/?q=bra+for+girls&from_searchbox_hotwords=1&clickTrackInfo=matchType--99___wh_pid--___type--cli___scene--diwen___bucket--0___spm_id--hint.hp.sbox___result--bra for girls___textId--1140316753124856733___score--1.000000___itemId--5___abtest--___pvid--dcd83747-6ef8-40d3-a3b2-817810d473d3___voucherId--___scoreChain--0.001000,0.000000,0.000000___algoFeatures--___scm--1007.25945.379337.0___ifMannual--N
+            - link "watch for man" [ref=e38] [cursor=pointer]:
+              - /url: https://www.daraz.com.bd/catalog/?q=watch+for+man&from_searchbox_hotwords=1&clickTrackInfo=matchType--99___wh_pid--___type--cli___scene--diwen___bucket--0___spm_id--hint.hp.sbox___result--watch for man___textId--8324417044045600410___score--0.774353___itemId--5___abtest--___pvid--dcd83747-6ef8-40d3-a3b2-817810d473d3___voucherId--___scoreChain--0.000774,0.000000,0.000000___algoFeatures--___scm--1007.25945.379337.0___ifMannual--N
+            - link "smart watch" [ref=e39] [cursor=pointer]:
+              - /url: https://www.daraz.com.bd/catalog/?q=smart+watch&from_searchbox_hotwords=1&clickTrackInfo=matchType--99___wh_pid--___type--cli___scene--diwen___bucket--0___spm_id--hint.hp.sbox___result--smart watch___textId--6319298025245409390___score--0.697627___itemId--5___abtest--___pvid--dcd83747-6ef8-40d3-a3b2-817810d473d3___voucherId--___scoreChain--0.000698,0.000000,0.000000___algoFeatures--___scm--1007.25945.379337.0___ifMannual--N
+            - link "t shirt" [ref=e40] [cursor=pointer]:
+              - /url: https://www.daraz.com.bd/catalog/?q=t+shirt&from_searchbox_hotwords=1&clickTrackInfo=matchType--99___wh_pid--___type--cli___scene--diwen___bucket--0___spm_id--hint.hp.sbox___result--t shirt___textId--304874222729381822___score--0.539279___itemId--5___abtest--___pvid--dcd83747-6ef8-40d3-a3b2-817810d473d3___voucherId--___scoreChain--0.000539,0.000000,0.000000___algoFeatures--___scm--1007.25945.379337.0___ifMannual--N
+            - link "headphone" [ref=e41] [cursor=pointer]:
+              - /url: https://www.daraz.com.bd/catalog/?q=headphone&from_searchbox_hotwords=1&clickTrackInfo=matchType--99___wh_pid--___type--cli___scene--diwen___bucket--0___spm_id--hint.hp.sbox___result--headphone___textId--8253716290076390876___score--0.433210___itemId--5___abtest--___pvid--dcd83747-6ef8-40d3-a3b2-817810d473d3___voucherId--___scoreChain--0.000433,0.000000,0.000000___algoFeatures--___scm--1007.25945.379337.0___ifMannual--N
+        - generic [ref=e42]:
+          - link "3":
+            - /url: https://cart.daraz.com.bd/cart
+            - img [ref=e44] [cursor=pointer]
+            - generic [ref=e48] [cursor=pointer]: "3"
+    - generic [ref=e51]:
+      - generic [ref=e53] [cursor=pointer]: Categories
+      - navigation [ref=e54]
+  - list [ref=e59]:
+    - listitem [ref=e60]:
+      - link "Watches Sunglasses Jewellery" [ref=e62] [cursor=pointer]:
+        - /url: https://www.daraz.com.bd/jewellery-watches-eyewear/
+    - listitem [ref=e64]:
+      - link "Watches" [ref=e66] [cursor=pointer]:
+        - /url: https://www.daraz.com.bd/watches-wsj/
+    - listitem [ref=e68]:
+      - link "Men" [ref=e70] [cursor=pointer]:
+        - /url: https://www.daraz.com.bd/mens-watches/
+    - listitem [ref=e72]:
+      - link "Fashion" [ref=e74] [cursor=pointer]:
+        - /url: https://www.daraz.com.bd/mens-chronograph/
+    - listitem [ref=e76]:
+      - generic [ref=e78]: O'levs 9931 New Business Quartz Watch For Men Luxury Diamond Dial Waterproof Stainless Steel Strap Men Wristwatch
+  - generic [ref=e80]:
+    - generic [ref=e81]:
+      - generic [ref=e84]:
+        - generic [ref=e86]:
+          - img [ref=e87] [cursor=pointer]
+          - img "O'levs 9931 New Business Quartz Watch For Men Luxury Diamond Dial Waterproof Stainless Steel Strap Men Wristwatch" [ref=e88]
+        - generic [ref=e90]:
+          - generic [ref=e92]:
+            - img [ref=e95] [cursor=pointer]
+            - img "O'levs 9931 New Business Quartz Watch For Men Luxury Diamond Dial Waterproof Stainless Steel Strap Men Wristwatch." [ref=e98]
+            - img "O'levs 9931 New Business Quartz Watch For Men Luxury Diamond Dial Waterproof Stainless Steel Strap Men Wristwatch." [ref=e101]
+            - img "O'levs 9931 New Business Quartz Watch For Men Luxury Diamond Dial Waterproof Stainless Steel Strap Men Wristwatch." [ref=e104]
+            - img "O'levs 9931 New Business Quartz Watch For Men Luxury Diamond Dial Waterproof Stainless Steel Strap Men Wristwatch." [ref=e107]
+            - img "O'levs 9931 New Business Quartz Watch For Men Luxury Diamond Dial Waterproof Stainless Steel Strap Men Wristwatch." [ref=e110]
+            - img "O'levs 9931 New Business Quartz Watch For Men Luxury Diamond Dial Waterproof Stainless Steel Strap Men Wristwatch." [ref=e113]
+          - generic [ref=e115]: 
+          - generic [ref=e117] [cursor=pointer]: 
+      - generic [ref=e119]:
+        - generic [ref=e120]:
+          - heading "O'levs 9931 New Business Quartz Watch For Men Luxury Diamond Dial Waterproof Stainless Steel Strap Men Wristwatch" [level=1] [ref=e124]
+          - generic [ref=e125]:
+            - generic [ref=e128]:
+              - generic [ref=e129]:
+                - img [ref=e130]
+                - img [ref=e131]
+                - img [ref=e132]
+                - img [ref=e133]
+                - img [ref=e134]
+              - generic [ref=e135]: Ratings 1932
+            - generic [ref=e136]:
+              - img [ref=e143] [cursor=pointer]
+              - img [ref=e149] [cursor=pointer]
+          - generic [ref=e152]:
+            - generic [ref=e153]: "Brand:"
+            - link "No Brand" [ref=e154] [cursor=pointer]:
+              - /url: https://www.daraz.com.bd/no-brand-1/?type=brand
+            - link "More Watches from No Brand" [ref=e156] [cursor=pointer]:
+              - /url: https://www.daraz.com.bd/watches-wsj/no-brand-1/
+          - generic [ref=e159]:
+            - generic [ref=e160]: ৳ 309
+            - generic [ref=e161]:
+              - generic [ref=e162]: ৳ 1,850
+              - text: "-83%"
+          - generic [ref=e164]:
+            - heading "Promotions" [level=6] [ref=e165]
+            - generic [ref=e169] [cursor=pointer]: Min. spend ৳ 899
+          - generic [ref=e173]:
+            - heading "হাতঘড়ি_স্ট্র্যাপ_রঙ" [level=6] [ref=e174]
+            - generic [ref=e175]:
+              - generic [ref=e177]: দুই টোন কালো
+              - img [ref=e183] [cursor=pointer]
+          - generic [ref=e195]:
+            - heading "Quantity" [level=6] [ref=e196]
+            - generic [ref=e198]:
+              - generic [ref=e199]:
+                - generic [ref=e202] [cursor=pointer]: 
+                - generic [ref=e205]: 
+              - textbox [ref=e208]: "1"
+          - generic [ref=e211] [cursor=pointer]:
+            - button "Buy Now" [ref=e212]:
+              - generic [ref=e213]: Buy Now
+            - button "Add to Cart" [active] [ref=e214]:
+              - generic [ref=e215]: Add to Cart
+        - generic [ref=e216]:
+          - generic [ref=e219]:
+            - generic [ref=e220]:
+              - generic [ref=e221]: Delivery Options
+              - img [ref=e226] [cursor=pointer]
+            - generic [ref=e231]:
+              - img [ref=e234]
+              - generic [ref=e236]: Dhaka,Dhaka - North,Gulshan 2
+              - generic [ref=e237]: CHANGE
+            - generic [ref=e239]:
+              - generic [ref=e242]:
+                - img [ref=e245]
+                - generic [ref=e247]:
+                  - generic [ref=e248]: Standard Delivery
+                  - generic [ref=e249]: Get by 3-6 Aug
+                - generic [ref=e250]: ৳ 85
+              - generic [ref=e253]:
+                - img [ref=e256]
+                - generic [ref=e259]: Cash on Delivery Available
+          - generic [ref=e262]:
+            - generic [ref=e263]:
+              - generic [ref=e264]: Return & Warranty
+              - img [ref=e269] [cursor=pointer]
+            - generic [ref=e271]:
+              - generic [ref=e274]:
+                - img [ref=e277]
+                - generic [ref=e280]: 14 days easy return
+              - generic [ref=e283]:
+                - img [ref=e286]
+                - generic [ref=e289]: Warranty not available
+          - generic [ref=e291]:
+            - generic [ref=e295] [cursor=pointer]:
+              - img "Lazada App" [ref=e296]
+              - paragraph [ref=e297]: Download app to enjoy exclusive discounts!
+            - paragraph [ref=e298]:
+              - generic [ref=e299]: .
+              - text: Scan with mobile
+          - generic [ref=e301]:
+            - generic [ref=e303]:
+              - generic [ref=e304]: Sold by
+              - link "WS Offer Shop - Choice..Selection" [ref=e306] [cursor=pointer]:
+                - /url: //www.daraz.com.bd/shop/ws-offer-shop-choice-selection/?itemId=368384956&channelSource=pdp
+            - generic [ref=e307]:
+              - generic [ref=e308] [cursor=pointer]:
+                - generic [ref=e309]: Positive Seller Ratings
+                - generic [ref=e310]: 91%
+              - generic [ref=e311] [cursor=pointer]:
+                - generic [ref=e312]: Ship on Time
+                - generic [ref=e313]: 100%
+              - generic [ref=e314] [cursor=pointer]:
+                - generic [ref=e315]: Chat Response Rate
+                - generic [ref=e316]: Not enough data
+            - link "GO TO STORE" [ref=e318] [cursor=pointer]:
+              - /url: //www.daraz.com.bd/shop/ws-offer-shop-choice-selection/?itemId=368384956&channelSource=pdp
+    - generic [ref=e328]:
+      - heading "Product details of" [level=2] [ref=e499]
+      - generic [ref=e500]:
+        - generic [ref=e501]:
+          - article [ref=e503]:
+            - paragraph [ref=e504]: "লাক্সারি ডায়মন্ড ডায়াল: O'levs 9931 ব্যবসায়িক কোয়ার্টজ ঘড়িতে একটি বিলাসবহুল ডায়মন্ড ডায়াল রয়েছে, যা আপনার কব্জিতে কমনীয়তা এবং পরিশীলিততার ছোঁয়া যোগ করে।"
+          - article [ref=e506]:
+            - paragraph [ref=e507]:
+              - img [ref=e508]
+            - paragraph [ref=e509]:
+              - img [ref=e510]
+            - paragraph [ref=e511]:
+              - img [ref=e512]
+            - paragraph [ref=e513]
+            - paragraph [ref=e515]
+            - paragraph [ref=e517]
+            - paragraph [ref=e519]
+            - paragraph [ref=e521]
+            - paragraph [ref=e523]:
+              - img [ref=e524]
+            - paragraph [ref=e525]
+            - paragraph [ref=e527]:
+              - img [ref=e528]
+            - paragraph [ref=e529]:
+              - img [ref=e530]
+            - list [ref=e531]:
+              - listitem [ref=e532]:
+                - generic [ref=e533]: "Case Thickness: 11mm"
+              - listitem [ref=e534]:
+                - generic [ref=e535]: "Band Width: 20mm"
+              - listitem [ref=e536]:
+                - generic [ref=e537]: "Band Material Type: Stainless Steel"
+              - listitem [ref=e538]:
+                - generic [ref=e539]: "Case Shape: Round"
+              - listitem [ref=e540]:
+                - generic [ref=e541]: "Dial Window Material Type: Hardlex"
+              - listitem [ref=e542]:
+                - generic [ref=e543]: "Boxes & Cases Material: Paper"
+              - listitem [ref=e544]:
+                - generic [ref=e545]: "Model Number: 9931"
+              - listitem [ref=e546]:
+                - generic [ref=e547]: "Dial Diameter: 41mm"
+              - listitem [ref=e548]:
+                - generic [ref=e549]: "Feature: Shock Resistant,Luminous,Auto Date,Water Resistant"
+              - listitem [ref=e550]:
+                - generic [ref=e551]: "Water Resistance Depth: 3Bar"
+              - listitem [ref=e552]:
+                - generic [ref=e553]: "Clasp Type: Hidden Clasp"
+              - listitem [ref=e554]:
+                - generic [ref=e555]: "Band Length: 19cm"
+              - listitem [ref=e556]:
+                - generic [ref=e557]: "Case Material: Stainless Steel"
+              - listitem [ref=e558]:
+                - generic [ref=e559]: "Movement: Quartz"
+              - listitem [ref=e560]:
+                - generic [ref=e561]: "Style: Luxury"
+              - listitem [ref=e562]:
+                - generic [ref=e563]: "Brand Name: OLEVS"
+              - listitem [ref=e564]:
+                - generic [ref=e565]: "Origin: Mainland China"
+              - listitem [ref=e566]:
+                - generic [ref=e567]: "Certification: NONE."
+            - paragraph [ref=e568]
+          - generic [ref=e570]:
+            - heading "Specifications of" [level=2] [ref=e571]
+            - list [ref=e573]:
+              - listitem [ref=e574]:
+                - generic [ref=e575]: Brand
+                - generic [ref=e576]: No Brand
+              - listitem [ref=e577]:
+                - generic [ref=e578]: SKU
+                - generic [ref=e579]: 368384956_BD-1839324709
+            - generic [ref=e580]:
+              - generic [ref=e581]: What’s in the box
+              - generic [ref=e582]: O'levs 9931 New Business Quartz Watch For Men Luxury Diamond Dial Waterproof Stainless Steel Strap Men Wristwatch
+        - button "VIEW MORE" [ref=e584] [cursor=pointer]
+  - generic [ref=e361]:
+    - generic [ref=e363]:
+      - generic [ref=e364]:
+        - heading "Customer Care" [level=3] [ref=e365]
+        - list [ref=e366]:
+          - listitem [ref=e367]:
+            - link "Help Center" [ref=e368] [cursor=pointer]:
+              - /url: //buyer-helpcenter.daraz.com.bd/s/page
+          - listitem [ref=e369]:
+            - link "How to Buy" [ref=e370] [cursor=pointer]:
+              - /url: //helpcenter.daraz.com.bd/page/knowledge?language=en&pageId=11&category=1000001032&scm=1003.4.icms-zebra-100022982-6850452.OTHER_6502233775_7696023&knowledge=1000005321
+          - listitem [ref=e371]:
+            - link "Returns & Refunds" [ref=e372] [cursor=pointer]:
+              - /url: https://pages.daraz.com.bd/wow/gcp/route/daraz/bd/upr/router?spm=a2a0e.tm80426660.5819486610.1.110f3edbgBqiU9&hybrid=1&data_prefetch=true&prefetch_replace=1&at_iframe=1&wh_pid=/lazada/channel/bd/fmcg-offers/HowtoReturnaProduct
+          - listitem [ref=e373]:
+            - link "Contact Us" [ref=e374] [cursor=pointer]:
+              - /url: //www.daraz.com.bd/contact-us/?scm=1003.4.icms-zebra-100022982-6850452.OTHER_6502233777_7696023
+          - listitem [ref=e375]:
+            - link "Terms & Conditions" [ref=e376] [cursor=pointer]:
+              - /url: //pages.daraz.com.bd/wow/gcp/route/daraz/bd/upr/router?hybrid=1&data_prefetch=true&prefetch_replace=1&at_iframe=1&wh_pid=/lazada/channel/bd/weekly-campaigns/customer-tc
+          - listitem [ref=e377]:
+            - link "CCMS - Central Complain Management System" [ref=e378] [cursor=pointer]:
+              - /url: //ccms.gov.bd/ticket-apply?scm=1003.4.icms-zebra-100022982-6850452.OTHER_6502233779_7696023&token=DAR-3011-iIMd2
+      - generic [ref=e379]:
+        - heading "Daraz" [level=3] [ref=e380]
+        - list [ref=e381]:
+          - listitem [ref=e382]:
+            - link "About Daraz" [ref=e383] [cursor=pointer]:
+              - /url: //www.daraz.com.bd/about-us/?scm=1003.4.icms-zebra-100022982-2888463.OTHER_6051348799_2538033
+          - listitem [ref=e384]:
+            - link "Digital Payments" [ref=e385] [cursor=pointer]:
+              - /url: //pages.daraz.com.bd/wow/gcp/daraz/channel/bd/pay/daraz-pay?scm=1003.4.icms-zebra-100022982-2888463.OTHER_6051348800_2538033
+          - listitem [ref=e386]:
+            - link "Daraz Card" [ref=e387] [cursor=pointer]:
+              - /url: //pages.daraz.com.bd/wow/gcp/daraz/channel/bd/help-page/daraz-co-brand-card?scm=1003.4.icms-zebra-100022982-2888463.OTHER_6502124219_2538033
+          - listitem [ref=e388]:
+            - link "Daraz Blog" [ref=e389] [cursor=pointer]:
+              - /url: //blog.daraz.com.bd/?scm=1003.4.icms-zebra-100022982-2888463.OTHER_6051348802_2538033
+          - listitem [ref=e390]:
+            - link "Daraz Cares" [ref=e391] [cursor=pointer]:
+              - /url: //www.daraz.com.bd/daraz-cares/?scm=1003.4.icms-zebra-100022982-2888463.OTHER_6051348803_2538033
+          - listitem [ref=e392]:
+            - link "Privacy Policy" [ref=e393] [cursor=pointer]:
+              - /url: https://pages.daraz.com.bd/wow/gcp/route/daraz/bd/upr/router?hybrid=1&data_prefetch=true&prefetch_replace=1&at_iframe=1&wh_pid=/lazada/channel/bd/weekly-campaigns/privacy-policy
+          - listitem [ref=e394]:
+            - link "Daraz Mart" [ref=e395] [cursor=pointer]:
+              - /url: //pages.daraz.com.bd/wow/gcp/daraz/channel/bd/dmart/dmart-home?scm=1003.4.icms-zebra-100022982-2888463.OTHER_6051348804_2538033
+          - listitem [ref=e396]:
+            - link "Daraz App" [ref=e397] [cursor=pointer]:
+              - /url: //www.daraz.com.bd/mobile-apps/?scm=1003.4.icms-zebra-100022982-2888463.OTHER_6051348806_2538033
+          - listitem [ref=e398]:
+            - link "Daraz Exclusives" [ref=e399] [cursor=pointer]:
+              - /url: //www.daraz.com.bd/daraz-exclusive-products/?scm=1003.4.icms-zebra-100022982-2888463.OTHER_6051348807_2538033
+          - listitem [ref=e400]:
+            - link "Daraz Donates" [ref=e401] [cursor=pointer]:
+              - /url: //pages.daraz.com.bd/wow/gcp/daraz/channel/bd/help-page/daraz-donation-to-make-difference?scm=1003.4.icms-zebra-100022982-2888463.OTHER_6502117438_2538033
+          - listitem [ref=e402]:
+            - link "Daraz University" [ref=e403] [cursor=pointer]:
+              - /url: //university.daraz.com.bd?scm=1003.4.icms-zebra-100022982-2888459.OTHER_5476361449_2538025
+          - listitem [ref=e404]:
+            - link "Sell on Daraz" [ref=e405] [cursor=pointer]:
+              - /url: //sellercenter.daraz.com.bd/apps/seller/login?scm=1003.4.icms-zebra-100022982-2888459.OTHER_5476361450_2538025&regist=true
+          - listitem [ref=e406]:
+            - link "Code of Conduct" [ref=e407] [cursor=pointer]:
+              - /url: //www.daraz.com.bd/wow/i/bd/help-pages/code-of-conduct?hybrid=1&scm=1003.4.icms-zebra-100022982-2888459.OTHER_5476361451_2538025
+          - listitem [ref=e408]:
+            - link "Join the Daraz Affiliate Program" [ref=e409] [cursor=pointer]:
+              - /url: //www.daraz.com.bd/daraz-affiliate-program/?scm=1003.4.icms-zebra-100022982-2888459.OTHER_6035955355_2538025
+      - generic [ref=e410]:
+        - generic:
+          - img "Download App" [ref=e412]
+          - generic [ref=e413]:
+            - generic [ref=e414]: Happy Shopping
+            - generic [ref=e415]: Download App
+          - generic [ref=e416]:
+            - link "Apple App Download" [ref=e417] [cursor=pointer]:
+              - /url: //itunes.apple.com/app/id978058048?mt=8&scm=1003.4.icms-zebra-100022982-2874591.OTHER_5436817469_2538051
+              - img "Apple App Download" [ref=e418]
+            - link "Android App Download" [ref=e419] [cursor=pointer]:
+              - /url: //play.google.com/store/apps/details?id=com.daraz.android&scm=1003.4.icms-zebra-100022982-2874591.OTHER_5436817469_2538051
+              - img "Android App Download" [ref=e420]
+            - link "Huawei App Download" [ref=e421] [cursor=pointer]:
+              - /url: //appgallery.huawei.com/?scm=1003.4.icms-zebra-100022982-2874591.OTHER_5436817469_2538051#/app/C100948133
+              - img "Huawei App Download" [ref=e422]
+    - generic [ref=e424]:
+      - generic [ref=e425]:
+        - heading "Payment Methods" [level=3] [ref=e426]
+        - generic [ref=e427]:
+          - img "cod" [ref=e429]
+          - img "visa" [ref=e431]
+          - img "master-card" [ref=e433]
+          - img "american-express" [ref=e435]
+          - img "easy-monthly-installments" [ref=e437]
+          - img "bKash" [ref=e439]
+          - img "nagad" [ref=e441]
+          - img "rainbow" [ref=e443]
+          - img "rocket" [ref=e445]
+      - generic [ref=e446]:
+        - heading "Verified by" [level=3] [ref=e447]
+        - img "Daraz" [ref=e451]
+      - generic [ref=e452]:
+        - heading "DBID" [level=3] [ref=e453]
+        - generic [ref=e454]:
+          - paragraph [ref=e455]: "Registration ID :"
+          - paragraph [ref=e456]: "304903094"
+    - generic [ref=e458]:
+      - generic [ref=e459]:
+        - heading "Daraz International" [level=3] [ref=e460]
+        - generic [ref=e461]:
+          - link "pk Pakistan" [ref=e462] [cursor=pointer]:
+            - /url: //www.daraz.pk/?scm=1003.4.icms-zebra-5029545-2834483.OTHER_5372735181_2485585
+            - img "pk" [ref=e463]
+            - generic [ref=e464]: Pakistan
+          - link "bd Bangladesh" [ref=e465] [cursor=pointer]:
+            - /url: //www.daraz.com.bd/?scm=1003.4.icms-zebra-5029545-2834483.OTHER_5372735171_2485585
+            - img "bd" [ref=e466]
+            - generic [ref=e467]: Bangladesh
+          - link "lk Sri Lanka" [ref=e468] [cursor=pointer]:
+            - /url: //www.daraz.lk/?scm=1003.4.icms-zebra-5029545-2834483.OTHER_5372735173_2485585
+            - img "lk" [ref=e469]
+            - generic [ref=e470]: Sri Lanka
+          - link "mm Myanmar" [ref=e471] [cursor=pointer]:
+            - /url: //www.shop.com.mm/?scm=1003.4.icms-zebra-5029545-2834483.OTHER_5372735176_2485585
+            - img "mm" [ref=e472]
+            - generic [ref=e473]: Myanmar
+          - link "np Nepal" [ref=e474] [cursor=pointer]:
+            - /url: //www.daraz.com.np/?scm=1003.4.icms-zebra-5029545-2834483.OTHER_5372735178_2485585
+            - img "np" [ref=e475]
+            - generic [ref=e476]: Nepal
+      - generic [ref=e477]:
+        - heading "Follow Us" [level=3] [ref=e478]
+        - generic [ref=e479]:
+          - link "facebook" [ref=e480] [cursor=pointer]:
+            - /url: https://www.facebook.com/DarazBangladesh
+            - img "facebook" [ref=e481]
+          - link "youtube" [ref=e482] [cursor=pointer]:
+            - /url: https://www.youtube.com/@DarazBangladeshOfficial
+            - img "youtube" [ref=e483]
+          - link "twitter" [ref=e484] [cursor=pointer]:
+            - /url: //twitter.com/DarazBangladesh/?scm=1003.4.icms-zebra-100022982-2933596.OTHER_5476239795_2580063
+            - img "twitter" [ref=e485]
+          - link "instagram" [ref=e486] [cursor=pointer]:
+            - /url: https://www.instagram.com/darazbangladesh/
+            - img "instagram" [ref=e487]
+      - generic [ref=e489]: © Daraz 2026
+  - button "Messages" [ref=e491] [cursor=pointer]:
+    - generic [ref=e492]:
+      - img [ref=e493]
+      - generic [ref=e498]: Messages
+  - dialog [ref=e586]:
+    - generic [ref=e592]:
+      - img [ref=e593]
+      - text: Added to cart successfully!
+    - link "" [ref=e599] [cursor=pointer]:
+      - /url: javascript:;
+      - generic [ref=e600]: 

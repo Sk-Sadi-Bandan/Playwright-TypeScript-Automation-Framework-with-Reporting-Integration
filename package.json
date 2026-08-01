@@ -1,0 +1,35 @@
+{
+  "name": "playwright-e2e-test",
+  "version": "1.0.0",
+  "description": "Daraz Login Automation - Playwright E2E Tests",
+  "main": "index.js",
+  "scripts": {
+    "daraz-login": "powershell -ExecutionPolicy Bypass -Command \"$env:TEST_FLOW_NAME='daraz-login'; npx playwright test tests/tests/login.spec.ts --headed --workers=1\"",
+    "daraz-login-headless": "powershell -ExecutionPolicy Bypass -Command \"$env:TEST_FLOW_NAME='daraz-login-headless'; npx playwright test tests/tests/login.spec.ts --workers=1\"",
+    "daraz-full-flow": "powershell -ExecutionPolicy Bypass -Command \"$env:TEST_FLOW_NAME='daraz-full-flow'; npx playwright test tests/tests/fullFlow.spec.ts --headed --workers=1\"",
+    "daraz-full-flow-headless": "powershell -ExecutionPolicy Bypass -Command \"$env:TEST_FLOW_NAME='daraz-full-flow-headless'; npx playwright test tests/tests/fullFlow.spec.ts --workers=1\"",
+    "report:playwright:merge": "powershell -ExecutionPolicy Bypass -Command \"$env:PLAYWRIGHT_HTML_OUTPUT_DIR='reports/playwright/combined-html'; npx playwright merge-reports --reporter html reports/playwright/flow-wise/blob\"",
+    "report:playwright:show": "npx playwright show-report reports/playwright/combined-html"
+  },
+  "keywords": [
+    "playwright",
+    "daraz",
+    "login-automation",
+    "e2e-testing"
+  ],
+  "author": "Anisur Rahman Tonu",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "1.61.1",
+    "@types/node": "^24.10.0",
+    "allure-commandline": "^2.38.1",
+    "allure-js-commons": "^3.7.1",
+    "allure-playwright": "^3.7.1",
+    "chalk": "^5.6.2",
+    "dotenv": "^17.2.3",
+    "xlsx": "^0.18.5"
+  },
+  "dependencies": {
+    "exceljs": "^4.4.0"
+  }
+}

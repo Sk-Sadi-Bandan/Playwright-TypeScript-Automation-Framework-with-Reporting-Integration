@@ -1,0 +1,13 @@
+{
+  "products": [
+    {
+      "id": "product1",
+      "searchKeyword": "Watch"
+    },
+    {
+      "id": "product2",
+      "searchKeyword": "Bag"
+    }
+  ],
+  "platformFee": 5
+}
